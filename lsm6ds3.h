@@ -2,7 +2,7 @@
  * lsm6ds1.h
  *
  *  Created on: Dec 7, 2017
- *      Author: pc
+ *      Author:  Umar Yaqoob
  */
 
 #ifndef BSP_HAL_INC_LSM6DS3_H_
