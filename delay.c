@@ -2,7 +2,7 @@
  * delay.c
  *
  *  Created on: Jan 30, 2018
- *      Author: Umar
+ *      Author: Umar Yaqoob
  */
 #include "delay.h"
 #include "stm32f10x_rcc.h"
