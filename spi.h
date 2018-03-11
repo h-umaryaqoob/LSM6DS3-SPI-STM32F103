@@ -2,7 +2,7 @@
  * spi.h
  *
  *  Created on: Dec 20, 2017
- *      Author: pc
+ *      Author:  Umar Yaqoob
  */
 
 #ifndef BSP_HAL_INC_SPI_H_

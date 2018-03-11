@@ -2,7 +2,7 @@
  * delay.h
  *
  *  Created on: Jan 30, 2018
- *      Author: Umar
+ *      Author: Umar Yaqoob
  */
 
 #ifndef BSP_HAL_INC_DELAY_H_
