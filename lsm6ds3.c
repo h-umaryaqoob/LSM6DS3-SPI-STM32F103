@@ -2,7 +2,7 @@
  * spi.c
  *
  *  Created on: Dec 6, 2017
- *      Author: pc
+ *      Author: UMAR YAQOOB
  */
 
 #include "lsm6ds3.h"
