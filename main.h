@@ -2,7 +2,7 @@
  * main.h
  *
  *  Created on: Sep 24, 2017
- *      Author: muaz waseem
+ *      Author: Umar Yaqoob
  */
 
 #ifndef APPLICATION_MAIN_H_
